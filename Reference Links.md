@@ -9,6 +9,13 @@
 - Link : https://datatracker.ietf.org/doc/html/rfc7231#section-6
 - CommonMark : https://commonmark.org/
 - URI (Uniform Resource Identifiers) : https://datatracker.ietf.org/doc/html/rfc2616#section-3.2
-- OpenAPI Info Object: https://spec.openapis.org/oas/v3.1.0.html#info-object
 
+# OpenAPI
+- Info Object: https://spec.openapis.org/oas/v3.1.0.html#info-object
+- Path Object - https://spec.openapis.org/oas/v3.1.0.html#paths-object
+- Operation Object - https://spec.openapis.org/oas/v3.1.0.html#operation-object
+- Parameter Object - https://spec.openapis.org/oas/v3.1.0.html#parameter-object
+- Request Body Object - https://spec.openapis.org/oas/latest.html#request-body-object
+- Response Object - https://spec.openapis.org/oas/v3.1.0.html#response-object
+- Security Schema Object - https://spec.openapis.org/oas/v3.1.0.html#security-scheme-object
 
